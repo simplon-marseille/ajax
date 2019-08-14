@@ -1,0 +1,13 @@
+//Exercice AJAX
+//Allez sur https://jsonplaceholder.typicode.com
+//A partir du cours et de vos nouvelles connaissances toutes fraîches en AJAX et à partir
+//des informations du site, éxécutez les requêtes suivantes (à afficher dans la console) :
+//
+//Afficher toutes les tâches (todos)
+//Afficher toutes les tâches achevées (completed: true)
+//Affichez tous les users
+//Affichez les infos suivante concernant les users (name, adress, company, website)
+//Affichez les infos (name,  adress, email) de Leanne Graham
+//Afficher toutes les tâches achevées de Leanne Graham
+//Affichez tous les posts appartenant à Leanne Graham
+//Affichez tous les commentaires du post à l'id 5
