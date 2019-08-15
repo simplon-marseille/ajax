@@ -1,7 +1,7 @@
 //Exercice AJAX
 //Allez sur https://jsonplaceholder.typicode.com
 //A partir du cours et de vos nouvelles connaissances toutes fraîches en AJAX et à partir
-//des informations du site, éxécutez les requêtes suivantes (à afficher dans la console) :
+//des informations du site, éxécutez les requêtes suivantes (à afficher dans la console) au moyen d'un bouton 'envoyer' :
 //
 //Afficher toutes les tâches (todos)
 //Afficher toutes les tâches achevées (completed: true)
@@ -11,3 +11,7 @@
 //Afficher toutes les tâches achevées de Leanne Graham
 //Affichez tous les posts appartenant à Leanne Graham
 //Affichez tous les commentaires du post à l'id 5
+//
+//Utilisez vos connaissances en Javascript - HTML - CSS pour afficher les dans le navigateur sous forme de cards ou de listes horizontales tous les users.
+//avec les infos suivantes : name, pseudo, email, website (lien), bouton 'Voir posts'.
+//Le bouton ouvre une modal permettant de lister tous les posts de ce user. Vous avez le choix du design (couleur, disposition, etc...).
