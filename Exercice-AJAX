@@ -1,17 +1,37 @@
 //Exercice AJAX
+//Codez un bouton dans le fichier 'index.html' et lié le au fichier JS.
+//Ce bouton aura une ID nommé 'userClick'
+//Appliquez un événement click sur cet élément (addEventListener(EVENT_TYPE, CALL_BACK))
+//Vérifiez que le bouton fonctionne. Le click affichera une alerte.
+==> Versionnez votre projet sur Github.
+
+
 //Allez sur https://jsonplaceholder.typicode.com
+
 //A partir du cours et de vos nouvelles connaissances toutes fraîches en AJAX et à partir
-//des informations du site, éxécutez les requêtes suivantes (à afficher dans la console) au moyen d'un bouton 'envoyer' :
+//des informations du site, éxécutez les requêtes ajax suivantes (à afficher dans la console) au moyen du bouton coder précédement :
 //
 //Afficher toutes les tâches (todos)
 //Afficher toutes les tâches achevées (completed: true)
 //Affichez tous les users
-//Affichez les infos suivante concernant les users (name, adress, company, website)
+//Affichez les infos suivantes concernant les users (name, adress, company, website)
 //Affichez les infos (name,  adress, email) de Leanne Graham
 //Afficher toutes les tâches achevées de Leanne Graham
 //Affichez tous les posts appartenant à Leanne Graham
 //Affichez tous les commentaires du post à l'id 5
 //
-//Utilisez vos connaissances en Javascript - HTML - CSS pour afficher les dans le navigateur sous forme de cards ou de listes horizontales tous les users.
-//avec les infos suivantes : name, pseudo, email, website (lien), bouton 'Voir posts'.
+//Utilisez vos connaissances en Javascript - HTML - CSS pour afficher dans le navigateur sous forme de cards ou de listes horizontales les informations suivantes concernant les users :
+
+name
+pseudo
+email
+website (lien)
+bouton 'Voir posts'
+
+
 //Le bouton ouvre une modal permettant de lister tous les posts de ce user. Vous avez le choix du design (couleur, disposition, etc...).
+
+
+Tous types de framework CSS sera le bienvenue !
+
+Allez, courage !!
